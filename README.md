@@ -55,6 +55,8 @@ SVC was trained on the Breast Cancer Wisconsin (Diagnostic) dataset, using the f
 1. Enter the values for the various tumor characteristics (e.g., `radius_mean`, `texture_mean`, etc.) in the input fields.
 2. Click on the "Predict" button.
 3. The app will display a prediction: whether the tumor is **Malignant** or **Benign**.
+4. Run the Dash app: **python app.py**
+5. Open the app in your web browser **http://127.0.0.1:8050/**
 
 ## Example Input
 
